@@ -1,0 +1,4 @@
+Create Database table: LMS
+import lms.sql
+username : root 
+password: blank
